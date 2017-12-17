@@ -1,0 +1,3 @@
+rootProject.name = 'try-graphql-kraph'
+rootProject.buildFileName = 'build.gradle.kts'
+
